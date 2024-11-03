@@ -32,3 +32,6 @@ Ce projet propose un chatbot médical capable de traiter les questions en chinoi
    ```bash
    git clone https://github.com/utilisateur/projet-chatbot-medical.git
    cd projet-chatbot-medical
+2.Script Bash pour télécharger le fichier depuis Google Drive (contenant les modeles deja entrainé)
+https://drive.google.com/file/d/15J6XgUH4IcLx990RCOSQxrxuRHMVo-qN/view?usp=sharing
+
