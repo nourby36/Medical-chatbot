@@ -1,0 +1,10 @@
+usage: 0
+susceptibility: 1
+treatment: 2
+dietary: 3
+other information: 4
+precautions: 5
+prevention: 6
+symptoms: 7
+information: 8
+causes: 9

@@ -1,0 +1,6 @@
+thanks: 0
+goodbye: 1
+help: 2
+greeting: 3
+medical: 4
+traduction: 5

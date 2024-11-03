@@ -1,0 +1,11 @@
+information
+symptoms
+susceptibility
+treatment
+prevention
+causes
+dietary
+usage
+precautions
+other information
+['information', 'symptoms', 'susceptibility', 'treatment', 'prevention', 'causes', 'dietary', 'usage', 'precautions', 'other information']
