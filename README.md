@@ -2,6 +2,8 @@
 
 ## Description
 Ce projet propose un chatbot médical capable de traiter les questions en chinois, d'extraire des entités médicales et de fournir des réponses pertinentes basées sur une base de connaissances. Il utilise des modèles de classification et de reconnaissance d'entités nommées (NER).
+![image](https://github.com/user-attachments/assets/0ec2c60c-957b-461d-817a-12c915ddedda)
+
 
 ## Table des matières
 - [Fonctionnalités](#fonctionnalités)
@@ -26,6 +28,7 @@ Ce projet propose un chatbot médical capable de traiter les questions en chinoi
 12. **Génération de réponse** : Script `generation_reponse.py` pour générer des réponses basées sur les intentions et maladies (selon l'intention et la maladie détéctés) .
 13. **Modèle pour intentions générales** : Entraînement d'un modèle avec `modele_classification_generales.py` pour traiter des intentions telles que salutations, remerciements, medical...
 14. **Génération de réponses finales** : `generation_reponse_chatbot.py` pour extraire l'intention de l'utilisateur et générer des réponses appropriées.
+15. **Reconaissance vocale**: Script 'app.py' est le script final qui regroupe tout, l'utilisateur peut communiquer avec le chatbot soit avec prompt soit avec la reconaissance vocale.
 
 ## Installation
 1. Clonez ce dépôt :
